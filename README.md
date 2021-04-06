@@ -42,7 +42,6 @@
 
 ---
 
-
 [website]: https://brighterbees.com
 [skill-stack]: https://brighterbees.com/menu.html
 [udemy-courses]: https://brighterbees.com/UdemyCourses/udemycourses-1.html
