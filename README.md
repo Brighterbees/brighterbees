@@ -42,15 +42,10 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brighterbees&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://brighterbees.com
-[courses]: https://brighterbees.com/UdemyCourses/udemycourses-1.html
+[skill-stack]: https://brighterbees.com/menu.html
+[udemy-courses]: https://brighterbees.com/UdemyCourses/udemycourses-1.html
 [twitter]: https://twitter.com/brighterbees
 [youtube]: https://youtube.com/c/brighterbees
 [instagram]: https://instagram.com/brighterbeesofficial
